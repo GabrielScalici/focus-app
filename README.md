@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://github.com/GabrielScalici/focus-app/blob/master/app/src/main/res/mipmap-hdpi/focus_launcher_foreground.png?raw=true"/>
+  <img src="https://media.giphy.com/media/l4FGHqrRZNPkfoLCw/giphy.gif"/>
   <h1 align="center"> Mantenha o foco em suas atividades </h1>
   <p align="center"> Focus </p>
+</p>
+<p align="center">
+  <img src="https://github.com/GabrielScalici/focus-app/blob/master/app/src/main/res/mipmap-hdpi/focus_launcher_foreground.png?raw=true"/>
 </p>
 
 <p align="center">
