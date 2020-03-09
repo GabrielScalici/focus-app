@@ -3,16 +3,15 @@
   <h1 align="center"> Mantenha o foco em suas atividades </h1>
   <p align="center"> Focus </p>
 </p>
-<p align="center">
-  <img src="https://github.com/GabrielScalici/focus-app/blob/master/app/src/main/res/mipmap-hdpi/focus_launcher_foreground.png?raw=true"/>
-</p>
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/made-with-java.svg"/>
 </p>
 
-
-# :chart_with_upwards_tren: Focus
+# :chart: Focus App
+<p align="center">
+  <img src="https://github.com/GabrielScalici/focus-app/blob/master/app/src/main/res/mipmap-hdpi/focus_launcher_foreground.png?raw=true"/>
+</p>
 Aplicativo com técnicas relaxamento e concentração em estudos.
 
 ## :iphone: Linguagem
