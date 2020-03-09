@@ -9,7 +9,7 @@
 </p>
 
 
-# :pizza: Focus
+# :chart_with_upwards_tren: Focus
 Aplicativo com técnicas relaxamento e concentração em estudos.
 
 ## :iphone: Linguagem
